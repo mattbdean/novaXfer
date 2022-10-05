@@ -30,7 +30,7 @@
     "express": "^4.15.2",
     "express-list-endpoints": "^3.0.0",
     "fs-extra-promise": "^1.0.1",
-    "gulp-favicons": "^2.2.7",
+    "gulp-favicons": "^2.3.0",
     "helmet": "^3.5.0",
     "lodash": "^4.17.4",
     "mongodb": "^2.2.25",

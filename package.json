@@ -27,7 +27,7 @@
     "cheerio": "^0.22.0",
     "colors": "^1.1.2",
     "core-js": "^2.4.1",
-    "express": "^4.15.2",
+    "express": "^4.19.2",
     "express-list-endpoints": "^3.0.0",
     "fs-extra-promise": "^1.0.1",
     "gulp-favicons": "^2.2.7",

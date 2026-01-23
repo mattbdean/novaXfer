@@ -32,7 +32,7 @@
     "fs-extra-promise": "^1.0.1",
     "gulp-favicons": "^2.2.7",
     "helmet": "^3.5.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.23",
     "mongodb": "^2.2.25",
     "morgan": "^1.8.1",
     "pdf2table": "^0.0.1",
